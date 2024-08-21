@@ -12,7 +12,7 @@
     - 테이블 join을 통해 MinwonDF구성
 
         
-- ## Data Analystic
+- ## Data Analysis
     -  부서별 민원 유형 확인-WordCloud
     -  감정분석을 통해 대체적인 민원 부정적임 확인
     -  '민원공무원' 키워드로 뉴스 데이터 수집 및 분석
